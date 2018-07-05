@@ -1,4 +1,4 @@
-FROM jmeter-base
+FROM dockerfile-jemter-base
 MAINTAINER Purshottam
 
 # Ports to be exposed from the container for JMeter Master
